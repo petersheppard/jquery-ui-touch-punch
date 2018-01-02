@@ -1,0 +1,18 @@
+{
+  "name": "PGS/jquery-ui-touch-punch",
+  "description": "Extension to jQuery UI for mobile touch event support",
+  "type": "component",
+  "license": "MIT",
+  "homepage": "http://touchpunch.furf.com/",
+  "keywords": [ "mobile", "touch", "gestures" ],
+  "authors": [
+    {
+      "name": "Dave Furfero",
+      "email": "furf@furf.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/furf/jquery-ui-touch-punch/issues",
+    "source": "https://github.com/furf/jquery-ui-touch-punch"
+  }
+}
